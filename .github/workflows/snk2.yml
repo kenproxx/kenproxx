@@ -5,7 +5,8 @@
   with:
     # github user name
     github_user_name: kenproxx
-    # list of files to generate one file per line. Each output can be customized with options as query string
+    # list of files to generate.
+one file per line. Each output can be customized with options as query string.
 
  supported query string options:
 
