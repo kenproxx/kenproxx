@@ -56,7 +56,7 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenproxx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="kenproxx">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kenproxx&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=kenproxx&show_icons=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -67,4 +67,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
